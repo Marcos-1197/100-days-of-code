@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+Starting point: I started to learn React by myself with an Udemy's course recomended by a friend on January 2021. I have already finished it but I lack the proper knowledge of HTML, CSS and JS to do things myself so I decided to commit to this journey. You can find me on Twitter @Marcos_1197 or check log.md to follow my progress.
+
 ## Contents
 
 * [Rules](rules.md)
