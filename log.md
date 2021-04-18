@@ -18,7 +18,7 @@
 
 **Link to work:** https://codepen.io/aceto/pen/QWdByyW - not finished yet.
 
-### Day 3: April 17, 2021
+### Day 3: April 18, 2021
 
 **Today's Progress**: Almost done with FCC Landing Page, I hope to finish it tomorrow. Not sure if I am doing things the best way but I am doing them.
 
