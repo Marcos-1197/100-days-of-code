@@ -2,8 +2,6 @@
 
 ### Day 1: April 16, 2021
 
-**Today's Goals**: Today goals are to continue where i left freeCodeCamp program (Survey Form). And get more familiar with CSS Responsive and Flexbox.
-
 **Today's Progress**: Survey Form done. It doesn't look great but i do think it's good enough and I did learn a couple of things.
 
 **Thoughts**: Feeling good about starting the challenge. Stoping the excuses and starting from the basics.
@@ -23,5 +21,13 @@
 **Today's Progress**: Almost done with FCC Landing Page, I hope to finish it tomorrow. Not sure if I am doing things the best way but I am doing them.
 
 **Thoughts**: It is amazing how much easier it has been for me to get work done since I started the challenge. I don't know if at some point burnout can kick in but so far im really happy with it.
+
+**Link to work:** https://codepen.io/aceto/pen/QWdByyW not finished yet.
+
+### Day 4: April 19, 2021
+
+**Today's Progress**: Still on FCC Landing Page. I learned that I should look more often the console for the Computed Styles when I find something is not working the way I expected.
+
+**Thoughts**: Another kinda stuck day. I did take some time to learn about the Agile Manifesto and the idea behind it.
 
 **Link to work:** https://codepen.io/aceto/pen/QWdByyW not finished yet.
