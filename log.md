@@ -31,3 +31,19 @@
 **Thoughts**: Another kinda stuck day. I did take some time to learn about the Agile Manifesto and the idea behind it.
 
 **Link to work:** https://codepen.io/aceto/pen/QWdByyW not finished yet.
+
+### Day 5: April 20, 2021
+
+**Today's Progress**: Decided to start over the styling for FCC Landing Page as I was having some problems I couldn't find the way to fix.
+
+**Thoughts**: I think I was changing too much classes to make sure it was very clear and ended up making a big mess.
+
+**Link to work:** -
+
+### Day 6: April 21, 2021
+
+**Today's Progress**: 85% in to JavaScript Basic on FCC. I have done good progress with the Landing Page also.
+
+**Thoughts**: Thought that starting with JavaScript would give me a litle break from CSS. It has been a good decision.
+
+**Link to work:** -
